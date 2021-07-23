@@ -16,4 +16,4 @@ This workshop will take place on 1—3 December 2021 in Milan, Italy, as part of
 * Submission deadline: 24th September 2021, Anywhere on Earth
 * Notification of acceptance: 8th November 2021
 * Camera ready: 22nd November 2021
-* Workshop: 1-3 December 2021 TBC
+* Workshop: 1-3 December 2021 TBD

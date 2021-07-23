@@ -8,7 +8,7 @@ title: "CFP"
 
 Causal-ITALY aims at bringing together researchers and practitioners in artificial intelligence, logic, and philosophy of science,  with a dedicated focus on methods and trends emerging from the study of causality. 
 
-This is in conjunction with the Italian Conference on Artificial Intelligence, AIxIA. For details on conference partecipation, registration, venue, please visit [https://aixia2021.disco.unimib.it/](https://aixia2021.disco.unimib.it/) .
+This is in conjunction with the Italian Conference on Artificial Intelligence, AIxIA. For details on conference partecipation, registration, venue, please visit [https://aixia2021.disco.unimib.it/](https://aixia2021.disco.unimib.it/) . We are currently envisaging a hybrid format: further details will be announced closer to the event.
 
 Submission deadline: 24th September 2021, Anywhere on Earth.
 
@@ -18,7 +18,7 @@ However, no matter how sophisticated the predictive algorithms, their users may 
 
 We welcome the submission of papers on systems, tools, and applications of artificial intelligence methods for causal learning and reasoning, both logic-based and statistical. We encourage submissions presenting recent developments, including works in progress, as well as short summaries of recently published papers. 
 
-Papers will be collected in informal, non-archival proceedings.
+Papers will be collected in informal, non-archival proceedings. 
 
 ## Topics
 Topics of interest include, but are not limited to: 
@@ -42,16 +42,16 @@ Topics of interest include, but are not limited to:
 ## Submission details
 Kindly ensure that your paper is written in English and formatted using the guidelines you find [here](/formatting-guidelines.zip).
 
-Long papers are limited to 7 pages including references. Short papers—including works in progress and summaries of recently published papers—are limited to 4 pages including references.
+Long papers are limited to 7 pages including references. Short papers—including works in progress and summaries of recently published papers—should be between 2 and 4 pages including references.
 
 All papers must be submitted online via EasyChair submission portal of AIxIA conference [https://easychair.org/conferences/?conf=aixia2021](https://easychair.org/conferences/?conf=aixia2021) selecting "Workshop on Causality Causal-ITALY" as Track.
 
 All submissions will be thoroughly peer-reviewed by experts based on originality, significance and clarity.
 
-The informal, non-archival proceedings will be available at the workshop website.
+Causal-Italy is a specialized workshop without archival proceedings, and no proceedings available on the web. As such, many conferences accept duplicate submissions. We encourage the authors to carefully examine the policy of the conference/journal they intend to submit their work to before submitting their paper to Causal-Italy.
 
 ## Important dates
 * Submission deadline: 24th September 2021, Anywhere on Earth
 * Notification of acceptance: 8th November 2021
 * Camera ready: 22nd November 2021
-* Workshop: 1-3 December 2021 TBC
+* Workshop: 1-3 December 2021 TBD
