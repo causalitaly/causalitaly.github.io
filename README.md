@@ -1,1 +1,1 @@
-# causalitaly.github.io
+Website for the CausalItaly workshop series
