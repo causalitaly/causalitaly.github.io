@@ -1,7 +1,7 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "Causal.ITALY2021"
+title: "Causal-ITALY2021"
 ---
 
 # The First International AIxIA Workshop on Causality
