@@ -12,6 +12,7 @@ title: "Organisation"
 
 ## Program Committee
 * Pietro Baroni, University of Brescia, Italy
+* Daniele Chiffi, Politecnico di Milano, Italy
 * Daniele Gorla, University La Sapienza, Italy
 * Anthony Hunter, University College London, UK
 * Claudio Mezzina, University of Urbino, Italy
