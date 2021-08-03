@@ -11,5 +11,10 @@ title: "Organisation"
 * [Federico Cerutti](https://federico-cerutti.unibs.it/), UniBS
 
 ## Program Committee
-
-TBA
+* Pietro Baroni, University of Brescia, Italy
+* Anthony Hunter, University College London, UK
+* Claudio Mezzina, University of Urbino, Italy
+* Sebastiano Stramaglia, University of Bari, Italy
+* Letizia Tanca, Politecnico di Milano, Italy
+* Matthias Thimm, University of Hagen, Germany
+* Mauro Vallati, University of Huddersfield, UK
