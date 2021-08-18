@@ -11,6 +11,7 @@ title: "Organisation"
 * [Federico Cerutti](https://federico-cerutti.unibs.it/), UniBS
 
 ## Program Committee
+* Paolo Baldan, University of Padua, Italy
 * Pietro Baroni, University of Brescia, Italy
 * Marco Bernardo, University of Urbino, Italy
 * Daniele Chiffi, Politecnico di Milano, Italy
