@@ -15,6 +15,7 @@ title: "Organisation"
 * Pietro Baroni, University of Brescia, Italy
 * Marco Bernardo, University of Urbino, Italy
 * Daniele Chiffi, Politecnico di Milano, Italy
+* Luca Faes, University of Palermo, Italy
 * Massimiliano Giacomin, University of Brescia, Italy
 * Daniele Gorla, University La Sapienza, Italy
 * Anthony Hunter, University College London, UK
