@@ -6,9 +6,9 @@ title: "CFP"
 
 # Call for Papers
 
-Causal-ITALY aims at bringing together researchers and practitioners in artificial intelligence, logic, and philosophy of science,  with a dedicated focus on methods and trends emerging from the study of causality. 
+Causal-ITALY aims at bringing together researchers and practitioners in artificial intelligence, logic, and philosophy of science, for informal discussions and community building with a dedicated focus on methods and trends emerging from the study of causality. 
 
-This is in conjunction with the Italian Conference on Artificial Intelligence, AIxIA. For details on conference partecipation, registration, venue, please visit [https://aixia2021.disco.unimib.it/](https://aixia2021.disco.unimib.it/) . We are currently envisaging a hybrid format: further details will be announced closer to the event.
+This is in conjunction with the Italian Conference on Artificial Intelligence, AIxIA. For details on conference participation, registration, venue, please visit [https://aixia2021.disco.unimib.it/](https://aixia2021.disco.unimib.it/) . We are currently envisaging a virtual format: further details will be announced closer to the event.
 
 Submission deadline: 24th September 2021, Anywhere on Earth.
 
@@ -46,7 +46,7 @@ Long papers are limited to 7 pages including references. Short papers—includin
 
 All papers must be submitted online via EasyChair submission portal of AIxIA conference [https://easychair.org/conferences/?conf=aixia2021](https://easychair.org/conferences/?conf=aixia2021) selecting "Workshop on Causality Causal-ITALY" as Track.
 
-All submissions will be thoroughly peer-reviewed by experts based on originality, significance and clarity.
+All submissions will receive a light-touch peer-review by experts based on significance, clarity, and expected contribution to the academic discussions at the workshop.
 
 Causal-Italy is a specialized workshop without archival proceedings, and no proceedings available on the web. As such, many conferences accept duplicate submissions. We encourage the authors to carefully examine the policy of the conference/journal they intend to submit their work to before submitting their paper to Causal-Italy.
 
