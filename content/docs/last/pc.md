@@ -26,3 +26,4 @@ title: "Organisation"
 * Letizia Tanca, Politecnico di Milano, Italy
 * Matthias Thimm, University of Hagen, Germany
 * Mauro Vallati, University of Huddersfield, UK
+* Adam Wyner, Swansea University, UK
