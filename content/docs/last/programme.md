@@ -4,7 +4,7 @@ bookFlatSection: true
 title: "Programme"
 ---
 
-# Invited Speakers
+# Keynotes
 
 ## Sara Magliacane. Causality-inspired ML: what can causality do for ML? The domain adaptation case
 
@@ -22,3 +22,6 @@ https://arxiv.org/abs/1707.06422
 Sara Magliacane is an assistant professor in the Informatics Institute at the University of Amsterdam and a Research Scientist at the MIT-IBM Watson AI Lab. She received her PhD at the VU Amsterdam on logics for causal inference under uncertainty in 2017, focusing on learning causal relations jointly from different experimental settings, especially in the case of latent confounders and small samples. After a year in IBM Research NY as a postdoc, she joined the MIT-IBM Watson AI Lab in 2019 as a Research Scientist, where she has been working on methods to design experiments that would allow one to learn causal relations in a sample-efficient and intervention-efficient way. Her current focus is on causality-inspired machine learning, i.e. applications of causal inference to machine learning and especially transfer learning, and formally safe reinforcement learning.
 
 ## Lorenzo Magnani
+
+*Abstract:*
+TBD
