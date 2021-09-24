@@ -13,7 +13,7 @@ This workshop will take place on 29—30 November 2021 in Milan, Italy, as part 
 
 
 ## Important dates
-* Submission deadline: 24th September 2021, Anywhere on Earth
-* Notification of acceptance: 8th November 2021
+* Submission deadline *EXTENDED*: 8th October 2021, Anywhere on Earth
+* Notification of acceptance *EXTENDED*: 12th November 2021
 * Camera ready: 22nd November 2021
 * Workshop: 29th or 30th November 2021 TBD
