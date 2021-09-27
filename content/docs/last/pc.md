@@ -11,6 +11,7 @@ title: "Organisation"
 * [Federico Cerutti](https://federico-cerutti.unibs.it/), UniBS
 
 ## Program Committee
+* Selene Arfini, University of Pavia, Italy
 * Paolo Baldan, University of Padua, Italy
 * Pietro Baroni, University of Brescia, Italy
 * Marco Bernardo, University of Urbino, Italy
