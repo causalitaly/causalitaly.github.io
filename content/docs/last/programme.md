@@ -22,7 +22,7 @@ The workshop will take place on Tuesday 29th November, between 0900h CET and 130
 
 10:50—11:00: **Break**
 
-11:00—11:45: _Lorenzo Magliani_, [Naturalizing Causality](#magliani). **Keynote**
+11:00—11:45: _Lorenzo Magnani_, [Naturalizing Causality](#magnani). **Keynote**
 
 11:45—12:00: _Gabriele Sottocornola, Fabio Stella and Markus Zanker_, Counterfactual Contextual Multi-Armed Bandit to Diagnose Post-Harvest Diseases of Apple
 
