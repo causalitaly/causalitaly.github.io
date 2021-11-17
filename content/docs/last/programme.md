@@ -4,7 +4,7 @@ bookFlatSection: true
 title: "Programme"
 ---
 
-The workshop will take place on Tuesday 29th November, between 0900h CET and 1300h CET. To join the event, please register and follow the instructions you find on https://aixia2021.disco.unimib.it/ .
+The workshop will take place on Tuesday 30th November, between 09:00h CET and 13:00h CET. To join the event, please register and follow the instructions you find on https://aixia2021.disco.unimib.it/ .
 
 **Times are CET**
 
