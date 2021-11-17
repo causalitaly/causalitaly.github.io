@@ -10,7 +10,7 @@ The workshop will take place on Tuesday 29th November, between 0900h CET and 130
 
 09:00—09:05: Welcome
 
-09:05—09:50: _Sara Magliacane_, Causality-inspired ML: what can causality do for ML? The domain adaptation case. **Keynote**
+09:05—09:50: _Sara Magliacane_, [Causality-inspired ML: what can causality do for ML? The domain adaptation case](#magliacane). **Keynote**
 
 09:50—10:05: _Andrea Duggento, Maria Guerrisi and Nicola Toschi_, Nonlinear Granger causality from random recurrent neural networks
 
@@ -22,7 +22,7 @@ The workshop will take place on Tuesday 29th November, between 0900h CET and 130
 
 10:50—11:00: **Break**
 
-11:00—11:45: _Lorenzo Magliani_, Naturalizing Causality. **Keynote**
+11:00—11:45: _Lorenzo Magliani_, [Naturalizing Causality](#magliani). **Keynote**
 
 11:45—12:00: _Gabriele Sottocornola, Fabio Stella and Markus Zanker_, Counterfactual Contextual Multi-Armed Bandit to Diagnose Post-Harvest Diseases of Apple
 
@@ -32,7 +32,7 @@ The workshop will take place on Tuesday 29th November, between 0900h CET and 130
 
 # Keynotes
 
-## Sara Magliacane. Causality-inspired ML: what can causality do for ML? The domain adaptation case
+## Sara Magliacane. Causality-inspired ML: what can causality do for ML? The domain adaptation case {#magliacane}
 
 ### Abstract
 Applying machine learning to real-world cases often requires methods that are trustworthy and robust w.r.t. heterogeneity, missing not at random or corrupt data, selection bias, non i.i.d. data etc. and that can generalize across different domains. Moreover, many tasks are inherently trying to answer causal questions and gather actionable insights, a task for which correlations are usually not enough. Several of these issues are addressed in the rich causal inference literature. On the other hand, often classical causal inference methods require either a complete knowledge of a causal graph or enough experimental data (interventions) to estimate it accurately.
@@ -46,7 +46,7 @@ Recently, a new line of research has focused on causality-inspired machine learn
 ### Bio
 Sara Magliacane is an assistant professor in the Informatics Institute at the University of Amsterdam and a Research Scientist at the MIT-IBM Watson AI Lab. She received her PhD at the VU Amsterdam on logics for causal inference under uncertainty in 2017, focusing on learning causal relations jointly from different experimental settings, especially in the case of latent confounders and small samples. After a year in IBM Research NY as a postdoc, she joined the MIT-IBM Watson AI Lab in 2019 as a Research Scientist, where she has been working on methods to design experiments that would allow one to learn causal relations in a sample-efficient and intervention-efficient way. Her current focus is on causality-inspired machine learning, i.e. applications of causal inference to machine learning and especially transfer learning, and formally safe reinforcement learning.
 
-## Lorenzo Magnani. Naturalizing Causality  
+## Lorenzo Magnani. Naturalizing Causality  {#magnani}
 
 ### Abstract
 Since I am adopting a naturalized perspective, I cede no opening space to skepticism about causality which, if true, would erode masses of what everybody thinks that everybody knows. The polar opposite would be a kind of what John Woods calls epistemicism, according to which the right working assumption is that what everyone think that everyone knows is actually so in the main. My working assumption is instead that we are all natural beings resident in the natural order of things and subjects of the causality embedded in nature and artifacts. We can certainly say that causes are not exceptional phenomena, but that rather are highly contextualized polyadic dynamic affairs: I think the only philosophical guess we can dare is that singular occurrences of causalities are made possible by the individuating capacities of a context. Are we able to individuate them?
