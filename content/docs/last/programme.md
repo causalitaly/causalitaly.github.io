@@ -18,7 +18,7 @@ The workshop will take place on Tuesday 30th November, between 09:00h CET and 13
 
 10:20—10:35: _Rafael Cabañas, Alessandro Antonucci and Marco Zaffalon_, Bounding Unidentifiable Causal Queries by Credal Nets
 
-10:35—10:50: _Celine Beji, Florian Yger and Jamal Atif_, Non parametric estimation of causal populations in a counterfactual scenario
+10:35—10:50: _Ruta Liepina, Adam Wyner and Giovanni Sartor_, Recent Work on Causal Reasoning in Law
 
 10:50—11:00: **Break**
 
@@ -26,7 +26,7 @@ The workshop will take place on Tuesday 30th November, between 09:00h CET and 13
 
 11:45—12:00: _Gabriele Sottocornola, Fabio Stella and Markus Zanker_, Counterfactual Contextual Multi-Armed Bandit to Diagnose Post-Harvest Diseases of Apple
 
-12:00—12:15: _Ruta Liepina, Adam Wyner and Giovanni Sartor_, Recent Work on Causal Reasoning in Law
+12:00—12:15: _Celine Beji, Florian Yger and Jamal Atif_, Non parametric estimation of causal populations in a counterfactual scenario
 
 12:15—12:30: _Marco Lippi, Stefano Mariani, Matteo Martinelli and Franco Zambonelli_, The Role of Causality in Autonomous Development
 
