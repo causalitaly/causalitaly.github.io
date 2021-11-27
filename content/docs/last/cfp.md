@@ -54,4 +54,4 @@ Causal-Italy is a specialized workshop without archival proceedings, and no proc
 * Submission deadline *EXTENDED*: 8th October 2021, Anywhere on Earth
 * Notification of acceptance *EXTENDED*: 12th November 2021
 * Camera ready: 22nd November 2021
-* Workshop: 29th or 30th November 2021 TBD
+* Workshop: 30th November 2021, between 09:00h CET and 13:00h CET
