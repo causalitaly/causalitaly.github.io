@@ -1,0 +1,4 @@
+
+*.lock
+public/*
+resources/_gen/*
