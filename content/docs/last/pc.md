@@ -17,5 +17,6 @@ title: "Organisation"
 * Claudio Antares Mezzina, University of Urbino
 * Pietro Baroni, University of Brescia
 * Paolo Milazzo, University of Pisa
+* G. Michele Pinna, University of Cagliari
 * Mauro Vallati, University of Huddersfield
 * Daniele Chiffi, Politecnico di Milano
