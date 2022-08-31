@@ -13,9 +13,10 @@ title: "Organisation"
 
 ## Program Committee
 * Selene Arfini, University of Pavia
-* Luca Faes, University of Palermo
-* Claudio Antares Mezzina, University of Urbino
 * Pietro Baroni, University of Brescia
+* Luca Faes, University of Palermo
+* Daniele Gorla, University of Roma Sapienza
+* Claudio Antares Mezzina, University of Urbino
 * Paolo Milazzo, University of Pisa
 * G. Michele Pinna, University of Cagliari
 * Mauro Vallati, University of Huddersfield
