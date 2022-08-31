@@ -14,6 +14,7 @@ title: "Organisation"
 ## Program Committee
 * Selene Arfini, University of Pavia
 * Pietro Baroni, University of Brescia
+* Marco Bernardo, University of Urbino
 * Luca Faes, University of Palermo
 * Massimiliano Giacomin, University of Brescia
 * Daniele Gorla, University of Roma Sapienza
