@@ -15,6 +15,7 @@ title: "Organisation"
 * Selene Arfini, University of Pavia
 * Pietro Baroni, University of Brescia
 * Luca Faes, University of Palermo
+* Massimiliano Giacomin, University of Brescia
 * Daniele Gorla, University of Roma Sapienza
 * Claudio Antares Mezzina, University of Urbino
 * Paolo Milazzo, University of Pisa
