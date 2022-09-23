@@ -12,6 +12,6 @@ In a socio-economical context rapidly moving towards an ethical use of robust ar
 This workshop will be part of the [21th International Conference of the Italian Association for Artificial Intelligence](https://aixia2022.uniud.it/)
 
 ## Important dates
-* Submission deadline: 23rd September 2022, Anywhere on Earth
-* Notification of acceptance: 21st October 2022
+* Submission deadline: ~~23rd September 2022~~ 30th September 2022, Anywhere on Earth
+* Notification of acceptance: ~~21st October 2022~~ 28th October 2022
 * Camera-ready: 21st November 2022
