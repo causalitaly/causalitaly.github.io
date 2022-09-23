@@ -10,7 +10,7 @@ Causal-ITALY aims at bringing together researchers and practitioners in artifici
 
 This is in conjunction with the Italian Conference on Artificial Intelligence, AIxIA. For details on conference participation, registration, venue, please visit [https://aixia2022.uniud.it/](https://aixia2022.uniud.it/) .
 
-Submission deadline: 23rd September 2022, Anywhere on Earth
+Submission deadline: ~~23rd September 2022~~ 30th September 2022, Anywhere on Earth
 
 In a socio-economical context rapidly moving towards an ethical use of robust artificial intelligence, causality stands out as a vastly important and needed feature. Causality directly supports what-if and counterfactual reasoning, fundamental components for any ethical, robust, and resilient use of artificial intelligence tools and systems.
 Indeed, much of the current research in artificial intelligence aims at predicting future events.
@@ -52,6 +52,6 @@ Causal-Italy is a specialized workshop without archival proceedings, and no proc
 
 
 ## Important dates
-* Submission deadline: 23rd September 2022, Anywhere on Earth
-* Notification of acceptance: 21st October 2022
+* Submission deadline: ~~23rd September 2022~~ 30th September 2022, Anywhere on Earth
+* Notification of acceptance: ~~21st October 2022~~ 28th October 2022
 * Camera-ready: 21st November 2022
