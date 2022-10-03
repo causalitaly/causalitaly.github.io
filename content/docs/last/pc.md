@@ -4,6 +4,8 @@ bookFlatSection: true
 title: "Organisation"
 ---
 
+# We regret to inform that Causal-ITALY 2022 will not take place. Apologies for any inconvenience caused.
+
 # Organisation
 
 ## Chairs 
