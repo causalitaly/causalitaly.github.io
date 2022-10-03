@@ -4,9 +4,10 @@ bookFlatSection: true
 title: "CFP"
 ---
 
-**We regret to inform that Causal-ITALY 2022 will not take place**
 
-**Apologies for any inconvenience caused**
+# We regret to inform that Causal-ITALY 2022 will not take place
+
+# Apologies for any inconvenience caused
 
 
 # Call for Papers
