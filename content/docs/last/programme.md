@@ -4,4 +4,6 @@ bookFlatSection: true
 title: "Programme"
 ---
 
-TBD
+**We regret to inform that Causal-ITALY 2022 will not take place**
+
+**Apologies for any inconvenience caused**
