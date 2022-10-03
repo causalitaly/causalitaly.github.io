@@ -4,11 +4,16 @@ bookFlatSection: true
 title: "CFP"
 ---
 
+**We regret to inform that Causal-ITALY 2022 will not take place**
+
+**Apologies for any inconvenience caused**
+
+
 # Call for Papers
 
 Causal-ITALY aims at bringing together researchers and practitioners in artificial intelligence, logic, and philosophy of science, for informal discussions and community building with a dedicated focus on methods and trends emerging from the study of causality. 
 
-This is in conjunction with the Italian Conference on Artificial Intelligence, AIxIA. For details on conference participation, registration, venue, please visit [https://aixia2022.uniud.it/](https://aixia2022.uniud.it/) .
+~~This is in conjunction with the Italian Conference on Artificial Intelligence, AIxIA. For details on conference participation, registration, venue, please visit [https://aixia2022.uniud.it/](https://aixia2022.uniud.it/) .~~
 
 Submission deadline: ~~23rd September 2022~~ 30th September 2022, Anywhere on Earth
 
